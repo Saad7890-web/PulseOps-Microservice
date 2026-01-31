@@ -175,7 +175,7 @@ pulseops/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pulseops.git
+git clone https://github.com/Saad7890-web/PulseOps-Microservice.git
 cd pulseops
 ```
 
